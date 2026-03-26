@@ -30,5 +30,8 @@ public class Main {
         System.out.println(standardRoom);
         System.out.println(familyRoom);
         System.out.println(luxRoom);
+
+        System.out.println("\n--- Лямбда-выражения, аннотации и рефлексия ---");
+        LambdaAndReflectionDemo.run();
     }
 }
